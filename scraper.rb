@@ -6,7 +6,6 @@ require 'mechanize'
 def scrape_page(page)
   page.at("table#_ctl2_pnl table").search("tr")[2..-1].each do |tr|
     tds = tr.search('td').map{|t| t.inner_text.gsub("\r\n", "").strip}
-    p tds
     day, month, year = tds[3].split("/").map{|s| s.to_i}
     record = {
       "info_url" => (page.uri + tr.search('td').at('a')["href"]).to_s,
