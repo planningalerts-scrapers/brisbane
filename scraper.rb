@@ -4,7 +4,7 @@ require 'mechanize'
 # Scraping from Masterview 2.0
 
 def scrape_page(page)
-  page.at("table#_ctl2_pnl table").search("tr")[2..-1].each do |tr|
+  page.at("table#ctl00_cphContent_ctl01_ctl00_RadGrid1_ctl00 tbody").search("tr")[2..-1].each do |tr|
     tds = tr.search('td').map{|t| t.inner_text.gsub("\r\n", "").strip}
     day, month, year = tds[3].split("/").map{|s| s.to_i}
     record = {
