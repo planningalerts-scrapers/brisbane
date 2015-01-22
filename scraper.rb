@@ -19,13 +19,14 @@ def scrape_page(page)
     #p record
     if (ScraperWiki.select("* from data where `council_reference`='#{record['council_reference']}'").empty? rescue true)
       ScraperWiki.save_sqlite(['council_reference'], record)
+      puts record
     else
       puts "Skipping already saved record " + record['council_reference']
     end
   end
 end
 
-url = "http://pdonline.brisbane.qld.gov.au/MasterView/modules/applicationmaster/default.aspx?page=found&1=thismonth&6=F"
+url = "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=found&1=thismonth&6=F"
 
 agent = Mechanize.new
 
