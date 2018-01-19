@@ -3,12 +3,16 @@ require 'mechanize'
 
 # Scraping from Masterview 2.0
 
+$agent = Mechanize.new
+
+
 def scrape_page(page)
   page.at("table#ctl00_cphContent_ctl01_ctl00_RadGrid1_ctl00 tbody").search("tr").each do |tr|
     tds = tr.search('td').map{|t| t.inner_text.gsub("\r\n", "").strip}
     day, month, year = tds[3].split("/").map{|s| s.to_i}
+    info_url = (page.uri + tr.search('td').at('a')["href"]).to_s
     record = {
-      "info_url" => (page.uri + tr.search('td').at('a')["href"]).to_s,
+      "info_url" => info_url,
       "council_reference" => tds[1].split(" - ")[0].squeeze(" ").strip,
       "date_received" => Date.new(year, month, day).to_s,
       "description" => tds[1].split(" - ")[1..-1].join(" - ").squeeze(" ").strip,
@@ -16,6 +20,22 @@ def scrape_page(page)
       "date_scraped" => Date.today.to_s
     }
     record["comment_url"] = "https://sde.brisbane.qld.gov.au/services/startDASubmission.do?direct=true&daNumber=" + CGI.escape(record["council_reference"]) + "&sdeprop=" + CGI.escape(record["address"])
+
+    property_page = $agent.get(info_url).links.find{|l| l.href =~ /modules\/propertymaster\/default\.aspx\?page=wrapper&key=/}.click
+
+    lot_details = property_page.at("div#lbldetail").text
+    
+    lot_match = lot_details.match(/Lot\/DP:\s(\S+)\s/)
+
+    description_match = lot_details.match(/Description:\s(.+)Ward/)
+    
+    lot = lot_match ? lot_match[1] : nil
+    property_description = description_match ? description_match[1] : nil
+
+    record["lot"] = lot
+
+    record["property_description"] = property_description
+
     #p record
     if (ScraperWiki.select("* from data where `council_reference`='#{record['council_reference']}'").empty? rescue true)
       ScraperWiki.save_sqlite(['council_reference'], record)
@@ -48,10 +68,10 @@ end
 
 url = "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=found&1=thismonth&6=F"
 
-agent = Mechanize.new
+
 
 # Read in a page
-page = agent.get(url)
+page = $agent.get(url)
 
 # This is weird. There are two forms with the Agree / Disagree buttons. One of them
 # works the other one doesn't. Go figure.
@@ -59,6 +79,6 @@ form = page.forms.first
 button = form.button_with(value: "I Agree")
 raise "Can't find agree button" if button.nil?
 page = form.submit(button)
-page = agent.get(url)
+page = $agent.get(url)
 
 scrape_and_follow_next_link(page)
