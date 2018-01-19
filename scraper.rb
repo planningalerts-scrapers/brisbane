@@ -6,6 +6,19 @@ require 'mechanize'
 $agent = Mechanize.new
 
 
+def scrape_property_details(info_url)
+  property_page = $agent.get(info_url).links.find{|l| l.href =~ /modules\/propertymaster\/default\.aspx\?page=wrapper&key=/}.click
+  lot_details = property_page.at("div#lbldetail").text
+  
+  lot_match = lot_details.match(/Lot\/DP:\s(\S+)\s/)
+  description_match = lot_details.match(/Description:\s(.+)Ward/)
+
+  lot = lot_match ? lot_match[1] : nil
+  property_description = description_match ? description_match[1] : nil
+
+  return lot, property_description
+end
+
 def scrape_page(page)
   page.at("table#ctl00_cphContent_ctl01_ctl00_RadGrid1_ctl00 tbody").search("tr").each do |tr|
     tds = tr.search('td').map{|t| t.inner_text.gsub("\r\n", "").strip}
@@ -21,19 +34,9 @@ def scrape_page(page)
     }
     record["comment_url"] = "https://sde.brisbane.qld.gov.au/services/startDASubmission.do?direct=true&daNumber=" + CGI.escape(record["council_reference"]) + "&sdeprop=" + CGI.escape(record["address"])
 
-    property_page = $agent.get(info_url).links.find{|l| l.href =~ /modules\/propertymaster\/default\.aspx\?page=wrapper&key=/}.click
-
-    lot_details = property_page.at("div#lbldetail").text
-    
-    lot_match = lot_details.match(/Lot\/DP:\s(\S+)\s/)
-
-    description_match = lot_details.match(/Description:\s(.+)Ward/)
-    
-    lot = lot_match ? lot_match[1] : nil
-    property_description = description_match ? description_match[1] : nil
+    lot, property_description = scrape_property_details(info_url)
 
     record["lot"] = lot
-
     record["property_description"] = property_description
 
     #p record
