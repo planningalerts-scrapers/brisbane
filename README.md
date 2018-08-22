@@ -7,6 +7,6 @@
 
 Setup MORPH_PERIOD for data recovery, available options are
 
-* past 14 days (default)
+* not set = past 14 days (default)
 * thismonth
 * lastmonth
