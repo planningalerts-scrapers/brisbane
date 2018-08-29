@@ -1,6 +1,16 @@
 require 'scraperwiki'
 require 'mechanize'
 
+case ENV['MORPH_PERIOD']
+  when 'lastmonth'
+    period = 'lastmonth'
+  when 'thismonth'
+    period = 'thismonth'
+  else
+    period = (Date.today - 14).strftime("%d/%m/%Y")+'&2='+(Date.today).strftime("%d/%m/%Y")
+end
+
+puts "Collecting data from " + period
 # Scraping from Masterview 2.0
 
 $agent = Mechanize.new
@@ -40,6 +50,7 @@ def scrape_page(page)
 
     #p record
     if (ScraperWiki.select("* from data where `council_reference`='#{record['council_reference']}'").empty? rescue true)
+      puts "Saving record " + record['council_reference'] + ' - ' + record['address']
       ScraperWiki.save_sqlite(['council_reference'], record)
     else
       puts "Skipping already saved record " + record['council_reference']
@@ -68,7 +79,7 @@ def scrape_and_follow_next_link(page)
   end
 end
 
-url = "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=found&1=thismonth&6=F"
+url = "https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=found&1="+period+"&6=F"
 
 
 
