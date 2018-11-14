@@ -17,13 +17,15 @@ $agent = Mechanize.new
 
 def scrape_property_details(info_url)
   property_page = $agent.get(info_url).links.find{|l| l.href =~ /modules\/propertymaster\/default\.aspx\?page=wrapper&key=/}.click
-  lot_details = property_page.at("div#lbldetail").text
+  lot_details = property_page.at("div#lbldetail").text rescue nil
 
-  lot_match = lot_details.match(/Lot\/DP:\s(\S+)\s/)
-  description_match = lot_details.match(/Description:\s(.+)Ward/)
+  unless lot_details.nil?
+    lot_match = lot_details.match(/Lot\/DP:\s(\S+)\s/)
+    description_match = lot_details.match(/Description:\s(.+)Ward/)
 
-  lot = lot_match ? lot_match[1] : nil
-  property_description = description_match ? description_match[1] : nil
+    lot = lot_match ? lot_match[1] : nil
+    property_description = description_match ? description_match[1] : nil
+  end
 
   return lot, property_description
 end
