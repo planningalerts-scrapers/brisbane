@@ -51,12 +51,8 @@ def scrape_page(page)
     record["property_description"] = property_description
 
     #p record
-    if (ScraperWiki.select("* from data where `council_reference`='#{record['council_reference']}'").empty? rescue true)
-      puts "Saving record " + record['council_reference'] + ' - ' + record['address']
-      ScraperWiki.save_sqlite(['council_reference'], record)
-    else
-      puts "Skipping already saved record " + record['council_reference']
-    end
+    puts "Saving record " + record['council_reference'] + ' - ' + record['address']
+    ScraperWiki.save_sqlite(['council_reference'], record)
   end
 end
 
