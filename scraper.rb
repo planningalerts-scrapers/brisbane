@@ -33,6 +33,9 @@ end
 def scrape_page(page)
   page.at("table#ctl00_cphContent_ctl01_ctl00_RadGrid1_ctl00 tbody").search("tr").each do |tr|
     tds = tr.search('td').map{|t| t.inner_text.gsub("\r\n", "").strip}
+
+    raise "Couldn't find date field" if tds[3].nil?
+
     day, month, year = tds[3].split("/").map{|s| s.to_i}
     info_url = (page.uri + tr.search('td').at('a')["href"]).to_s
     record = {
