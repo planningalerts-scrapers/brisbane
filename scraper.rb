@@ -48,7 +48,6 @@ def scrape_page(page)
       "address" => tds[2].squeeze(" ").strip,
       "date_scraped" => Date.today.to_s
     }
-    record["comment_url"] = "https://sde.brisbane.qld.gov.au/services/startDASubmission.do?direct=true&daNumber=" + CGI.escape(record["council_reference"]) + "&sdeprop=" + CGI.escape(record["address"])
 
     lot, property_description = scrape_property_details(info_url)
 
