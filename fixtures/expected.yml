@@ -5,48 +5,36 @@
   description: Demolition, Dwelling House, Extension, Dwelling House
   address: 54 WYLIE AVE COORPAROO QLD 4151
   date_scraped: '2019-05-14'
-  lot: 202RP13036
-  property_description: 'L.202 RP.13036 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182836
   council_reference: A005182836
   date_received: '2019-04-30'
   description: Multiple Dwelling
   address: 993 BOUNDARY RD COOPERS PLAINS QLD 4108
   date_scraped: '2019-05-14'
-  lot: 47SL10953
-  property_description: 'L.47 SL.10953 PAR Y''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182862
   council_reference: A005182862
   date_received: '2019-04-30'
   description: Construction Management Plans
   address: 17 MANNING ST SOUTH BRISBANE QLD 4101
   date_scraped: '2019-05-14'
-  lot: 6RP72056
-  property_description: 'L.6 RP.72056 PAR STH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182863
   council_reference: A005182863
   date_received: '2019-04-30'
   description: Extension, Dwelling House
   address: 62 PARK TCE SHERWOOD QLD 4075
   date_scraped: '2019-05-14'
-  lot: 1RP55945
-  property_description: 'L.1 RP.55945 PAR OXLEY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182896
   council_reference: A005182896
   date_received: '2019-04-30'
   description: Subdivision of Land
   address: 9 BAYCHESTER PL WAKERLEY QLD 4154
   date_scraped: '2019-05-14'
-  lot: 693SP178295
-  property_description: 'L.693 SP.178295 PAR TINGALPA  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182921
   council_reference: A005182921
   date_received: '2019-04-30'
   description: Building Format Plan
   address: 13 PRIORY ST INDOOROOPILLY QLD 4068
   date_scraped: '2019-05-14'
-  lot: 
-  property_description: 'L.7/8 RP.23510 PAR I''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182933
   council_reference: A005182933
   date_received: '2019-04-30'
@@ -54,56 +42,42 @@
     Demolition
   address: 10 CAMBRIDGE ST NUNDAH QLD 4012
   date_scraped: '2019-05-14'
-  lot: 84RP42694
-  property_description: 'L.84 RP.42694 PAR TOOMBUL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005182986
   council_reference: A005182986
   date_received: '2019-04-30'
   description: Multiple Dwelling
   address: 23 LAMBERT RD INDOOROOPILLY QLD 4068
   date_scraped: '2019-05-14'
-  lot: 3RP78790
-  property_description: 'L.3 RP.78790 PAR I''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183002
   council_reference: A005183002
   date_received: '2019-04-30'
   description: Standard Format Plan
   address: 38 SIBLEY RD WYNNUM WEST QLD 4178
   date_scraped: '2019-05-14'
-  lot: 178RP33289
-  property_description: 'L.177/178 RP.33289 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183045
   council_reference: A005183045
   date_received: '2019-04-30'
   description: Construction Management Plans
   address: 8 JULIE RD ELLEN GROVE QLD 4078
   date_scraped: '2019-05-14'
-  lot: 1RP187105
-  property_description: 
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183052
   council_reference: A005183052
   date_received: '2019-04-30'
   description: Dwelling House
   address: 76 STAY ST FERNY GROVE QLD 4055
   date_scraped: '2019-05-14'
-  lot: 42SP291139
-  property_description: 'L.42 SP.291139 PAR ENOGGERA  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183068
   council_reference: A005183068
   date_received: '2019-04-30'
   description: Standard Format Plan
   address: 42 WILLMINGTON ST WOOLOOWIN QLD 4030
   date_scraped: '2019-05-14'
-  lot: 1RP19120
-  property_description: 'L.1 RP.19120 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183081
   council_reference: A005183081
   date_received: '2019-04-30'
   description: Standard Format Plan
   address: 180 WISHART RD UPPER MOUNT GRAVATT QLD 4122
   date_scraped: '2019-05-14'
-  lot: 519RP86161
-  property_description: 'L.519 RP.86161 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183104
   council_reference: A005183104
   date_received: '2019-04-30'
@@ -111,64 +85,48 @@
     Dwelling
   address: 31 MANNING ST MILTON QLD 4064
   date_scraped: '2019-05-14'
-  lot: 3BUP12485
-  property_description: 'L.3 BUP.12485 PAR ENOGGERA 1/6 '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183133
   council_reference: A005183133
   date_received: '2019-04-30'
   description: Construction Management Plans
   address: 322 MOGGILL RD INDOOROOPILLY QLD 4068
   date_scraped: '2019-05-14'
-  lot: 
-  property_description: 'L.147 SP.265257 PAR I''PILLY  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183168
   council_reference: A005183168
   date_received: '2019-04-30'
   description: Dwelling House, Dwelling House, Amenity and aesthetics
   address: 40 SOUTHERDEN AVE GRANGE QLD 4051
   date_scraped: '2019-05-14'
-  lot: 57RP41198
-  property_description: 'L.57 RP.41198 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183173
   council_reference: A005183173
   date_received: '2019-04-30'
   description: Subdivision of Land
   address: 2037 WYNNUM RD WYNNUM WEST QLD 4178
   date_scraped: '2019-05-14'
-  lot: 1RP80764
-  property_description: 'L.1 RP.80764 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183189
   council_reference: A005183189
   date_received: '2019-04-30'
   description: Build Over or Near Stormwater
   address: 22 GAIL ST KEDRON QLD 4031
   date_scraped: '2019-05-14'
-  lot: 15RP44728
-  property_description: 'L.14/15 RP.44728 PAR KEDRON '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183202
   council_reference: A005183202
   date_received: '2019-04-30'
   description: Stormwater Drainage
   address: 6 CARRANYA ST CAMP HILL QLD 4152
   date_scraped: '2019-05-14'
-  lot: 84RP13109
-  property_description: 'L.84 RP.13109 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183362
   council_reference: A005183362
   date_received: '2019-05-01'
   description: Traffic Functional Layout for Major Roads
   address: 7 HELLEN ST BALD HILLS QLD 4036
   date_scraped: '2019-05-14'
-  lot: 12RP29037
-  property_description: 'L.11/12 RP.29037 PAR NUNDAH '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183409
   council_reference: A005183409
   date_received: '2019-05-01'
   description: Standard Format Plan
   address: 20 PARNASSUS ST ROBERTSON QLD 4109
   date_scraped: '2019-05-14'
-  lot: 82RP142659
-  property_description: 'L.82 RP.142659 PAR Y''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183413
   council_reference: A005183413
   date_received: '2019-05-01'
@@ -176,216 +134,162 @@
     aesthetics
   address: 17 BRUCE ST GRANGE QLD 4051
   date_scraped: '2019-05-14'
-  lot: 1RP56044
-  property_description: 'L.1 RP.56044 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183433
   council_reference: A005183433
   date_received: '2019-05-01'
   description: Standard Format Plan
   address: 19A FORMBY ST CALAMVALE QLD 4116
   date_scraped: '2019-05-14'
-  lot: 92SP172129
-  property_description: 'L.92 SP.172129 PAR Y''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183434
   council_reference: A005183434
   date_received: '2019-05-01'
   description: Filling and/or Excavation
   address: 363 HAWKESBURY RD ANSTEAD QLD 4070
   date_scraped: '2019-05-14'
-  lot: 4RP117276
-  property_description: 'L.4 RP.117276 PAR MOGGILL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183440
   council_reference: A005183440
   date_received: '2019-05-01'
   description: Standard Format Plan
   address: 20 DONNINGTON ST CARINDALE QLD 4152
   date_scraped: '2019-05-14'
-  lot: 922RP176339
-  property_description: 'L.922 RP.176339 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183442
   council_reference: A005183442
   date_received: '2019-05-01'
   description: House in EP/Rural Area, House in EP/Rural Area
   address: 756 GRASSDALE RD GUMDALE QLD 4154
   date_scraped: '2019-05-14'
-  lot: 122RP33384
-  property_description: 'L.122 RP.33384 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183447
   council_reference: A005183447
   date_received: '2019-05-01'
   description: Dwelling House, Dwelling House
   address: 150 JAMES ST NEW FARM QLD 4005
   date_scraped: '2019-05-14'
-  lot: 30RP9138
-  property_description: 'L.30 RP.9138 PAR NTH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183451
   council_reference: A005183451
   date_received: '2019-05-01'
   description: Access Easement, Subdivision of Land
   address: 97 STUARTHOLME RD BARDON QLD 4065
   date_scraped: '2019-05-14'
-  lot: 20RP69821
-  property_description: 'L.20 RP.69821 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183472
   council_reference: A005183472
   date_received: '2019-05-01'
   description: Traffic Functional Layout for Major Roads
   address: 363 HAWKESBURY RD ANSTEAD QLD 4070
   date_scraped: '2019-05-14'
-  lot: 4RP117276
-  property_description: 'L.4 RP.117276 PAR MOGGILL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183493
   council_reference: A005183493
   date_received: '2019-05-01'
   description: Extension, Dwelling House, Amenity and aesthetics
   address: 20 DERBY ST BALMORAL QLD 4171
   date_scraped: '2019-05-14'
-  lot: 9RP54566
-  property_description: 'L.9 RP.54566 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183509
   council_reference: A005183509
   date_received: '2019-05-01'
   description: Subdivision of Land
   address: 164 BIRDWOOD RD HOLLAND PARK WEST QLD 4121
   date_scraped: '2019-05-14'
-  lot: 80RP74614
-  property_description: 'L.80 RP.74614 PAR Y''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183533
   council_reference: A005183533
   date_received: '2019-05-01'
   description: Signs and Line Marking for Major Roads
   address: 363 HAWKESBURY RD ANSTEAD QLD 4070
   date_scraped: '2019-05-14'
-  lot: 4RP117276
-  property_description: 'L.4 RP.117276 PAR MOGGILL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183541
   council_reference: A005183541
   date_received: '2019-05-01'
   description: Road Works and/or Stormwater Drainage
   address: 363 HAWKESBURY RD ANSTEAD QLD 4070
   date_scraped: '2019-05-14'
-  lot: 4RP117276
-  property_description: 'L.4 RP.117276 PAR MOGGILL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183545
   council_reference: A005183545
   date_received: '2019-05-01'
   description: Building Format Plan
   address: 20A EMERALD ST KEDRON QLD 4031
   date_scraped: '2019-05-14'
-  lot: 3SP290795
-  property_description: 'L.3 SP.290795 PAR KEDRON  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183552
   council_reference: A005183552
   date_received: '2019-05-01'
   description: Stormwater Drainage
   address: 363 HAWKESBURY RD ANSTEAD QLD 4070
   date_scraped: '2019-05-14'
-  lot: 4RP117276
-  property_description: 'L.4 RP.117276 PAR MOGGILL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183566
   council_reference: A005183566
   date_received: '2019-05-01'
   description: Subdivision of Land
   address: 1834 CREEK RD CANNON HILL QLD 4170
   date_scraped: '2019-05-14'
-  lot: 10RP117334
-  property_description: 'L.10 RP.117334 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183589
-  council_reference: A005183589 -
+  council_reference: A005183589
   date_received: '2019-05-01'
   description: ''
   address: 20 WAVERLEY ST ANNERLEY QLD 4103
   date_scraped: '2019-05-14'
-  lot: 95RP37801
-  property_description: 'L.95 RP.37801 PAR Y''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183609
   council_reference: A005183609
   date_received: '2019-05-01'
   description: Building Format Plan
   address: 42 LAMBTON ST ANNERLEY QLD 4103
   date_scraped: '2019-05-14'
-  lot: 34RP37497
-  property_description: 'L.34/35 RP.37497 PAR Y''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183626
   council_reference: A005183626
   date_received: '2019-05-01'
   description: Prescribed Tidal Work
   address: 39 ARGYLE ST ALBION QLD 4010
   date_scraped: '2019-05-14'
-  lot: 5RP18350
-  property_description: 'L.5 RP.18350 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183653
   council_reference: A005183653
   date_received: '2019-05-01'
   description: Extension, Dwelling House
   address: 110 ENOGGERA TCE PADDINGTON QLD 4064
   date_scraped: '2019-05-14'
-  lot: 56RP20657
-  property_description: 'L.56 RP.20657 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183668
   council_reference: A005183668
   date_received: '2019-05-01'
   description: Build Over or Near Stormwater
   address: 35 BELLATA ST THE GAP QLD 4061
   date_scraped: '2019-05-14'
-  lot: 46RP95351
-  property_description: 'L.46/47 RP.95351 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183669
   council_reference: A005183669
   date_received: '2019-05-01'
   description: Building Format Plan
   address: 332 ALBANY CREEK RD BRIDGEMAN DOWNS QLD 4035
   date_scraped: '2019-05-14'
-  lot: 23SP237721
-  property_description: 'L.5 SP.227434 & L.23 SP.237721 PAR KEDRON '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183673
   council_reference: A005183673
   date_received: '2019-05-01'
   description: Demolition, Dwelling House, Extension, Dwelling House
   address: 3 DRAKE ST WEST END QLD 4101
   date_scraped: '2019-05-14'
-  lot: 74RP11006
-  property_description: 'L.74 RP.11006 PAR STH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183676
   council_reference: A005183676
   date_received: '2019-05-01'
   description: Food and Drink Outlet, Retirement Facility
   address: 11 HIGH ST LUTWYCHE QLD 4030
   date_scraped: '2019-05-14'
-  lot: 1RP123700
-  property_description: 'L.1 RP.123700 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183683
   council_reference: A005183683
   date_received: '2019-05-01'
   description: Demolition, Dwelling House, Extension, Dwelling House
   address: 62 RIDGE ST NORTHGATE QLD 4013
   date_scraped: '2019-05-14'
-  lot: 90RP34577
-  property_description: 'L.90/91 RP.34577 PAR TOOMBUL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183688
   council_reference: A005183688
   date_received: '2019-05-01'
   description: Dwelling House, Extension
   address: 17 DOWNFALL RD VIRGINIA QLD 4014
   date_scraped: '2019-05-14'
-  lot: 10SP178015
-  property_description: 'L.10 SP.178015 PAR TOOMBUL  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183698
   council_reference: A005183698
   date_received: '2019-05-01'
   description: Non-Compliant With House Code, Non-Compliant With House Code
   address: 26 UPPER BROOKFIELD RD BROOKFIELD QLD 4069
   date_scraped: '2019-05-14'
-  lot: 2RP72619
-  property_description: 'L.2 RP.72619 PAR MOGGILL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183702
   council_reference: A005183702
   date_received: '2019-05-01'
   description: Dwelling House, Dwelling House
   address: 47 COWPER ST BULIMBA QLD 4171
   date_scraped: '2019-05-14'
-  lot: 136RP12639
-  property_description: 'L.136 RP.12639 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183708
   council_reference: A005183708
   date_received: '2019-05-01'
@@ -393,40 +297,30 @@
     Hotel, Restaurant
   address: 826 MAIN ST KANGAROO POINT QLD 4169
   date_scraped: '2019-05-14'
-  lot: 2RP65389
-  property_description: 'L.2 RP.65389 PAR STH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183712
   council_reference: A005183712
   date_received: '2019-05-01'
   description: Build Over or Near Stormwater
   address: 14 ANGELA ST SALISBURY QLD 4107
   date_scraped: '2019-05-14'
-  lot: 143RP98148
-  property_description: 'L.143 RP.98148 PAR Y''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183722
   council_reference: A005183722
   date_received: '2019-05-01'
   description: Demolition, Extension, Dwelling House
   address: 16 DUKE ST BULIMBA QLD 4171
   date_scraped: '2019-05-14'
-  lot: 157RP12589
-  property_description: 'L.157 RP.12589 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183844
   council_reference: A005183844
   date_received: '2019-05-02'
   description: Warehouse, Warehouse
   address: 29 BOYLAND AVE COOPERS PLAINS QLD 4108
   date_scraped: '2019-05-14'
-  lot: 4RP94678
-  property_description: 'L.4 RP.94678 PAR Y''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183846
   council_reference: A005183846
   date_received: '2019-05-02'
   description: Construction Management Plans
   address: 11 HIGH ST LUTWYCHE QLD 4030
   date_scraped: '2019-05-14'
-  lot: 1RP123700
-  property_description: 'L.1 RP.123700 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183865
   council_reference: A005183865
   date_received: '2019-05-02'
@@ -434,64 +328,48 @@
     House
   address: 26 WATSON ST CAMP HILL QLD 4152
   date_scraped: '2019-05-14'
-  lot: 2RP66057
-  property_description: 'L.2 RP.66057 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183890
   council_reference: A005183890
   date_received: '2019-05-02'
   description: Construction Management Plans
   address: 261 FIG TREE POCKET RD FIG TREE POCKET QLD 4069
   date_scraped: '2019-05-14'
-  lot: 6RP151287
-  property_description: 'L.6 RP.151287 PAR I''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183905
   council_reference: A005183905
   date_received: '2019-05-02'
   description: Boundary Realignment
   address: 40 HERMANNS RD KHOLO QLD 4306
   date_scraped: '2019-05-14'
-  lot: 
-  property_description: 'L.42 S.31460 PAR KHOLO '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183922
   council_reference: A005183922
   date_received: '2019-05-02'
   description: Acid sulphate soils management plan
   address: 30 OSWALD ST HEMMANT QLD 4174
   date_scraped: '2019-05-14'
-  lot: 5RP74929
-  property_description: 'L.5 RP.74929 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183958
   council_reference: A005183958
   date_received: '2019-05-02'
   description: Child Care Centre
   address: 53 ARBOR ST FERNY GROVE QLD 4055
   date_scraped: '2019-05-14'
-  lot: 14RP66921
-  property_description: 'L.14 RP.66921 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005183987
   council_reference: A005183987
   date_received: '2019-05-02'
   description: Construction Management Plans
   address: U 1 TERRACE HOUSE 15 PRIORY ST INDOOROOPILLY QLD 4068
   date_scraped: '2019-05-14'
-  lot: 1BUP213
-  property_description: 'L.1 BUP.213 PAR I''PILLY 1/4 '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184007
   council_reference: A005184007
   date_received: '2019-05-02'
   description: Dwelling House - 3 Storey House, Dwelling House - 3 Storey House
   address: 32 CRESCENT RD HAMILTON QLD 4007
   date_scraped: '2019-05-14'
-  lot: 14RP33535
-  property_description: 'L.13/14 RP.33535 PAR TOOMBUL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184022
   council_reference: A005184022
   date_received: '2019-05-02'
   description: Indoor Sport and Recreation
   address: 6 BYRES ST NEWSTEAD QLD 4006
   date_scraped: '2019-05-14'
-  lot: 72RP9344
-  property_description: 'L.72 RP.9344 PAR NTH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184050
   council_reference: A005184050
   date_received: '2019-05-02'
@@ -501,24 +379,18 @@
     Restaurant
   address: 28 THOMAS ST CHERMSIDE QLD 4032
   date_scraped: '2019-05-14'
-  lot: 6RP50199
-  property_description: 'L.3/6 RP.50199 PAR KEDRON '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184054
   council_reference: A005184054
   date_received: '2019-05-02'
   description: Stormwater Drainage
   address: 72 RITCHIE RD PALLARA QLD 4110
   date_scraped: '2019-05-14'
-  lot: 1RP80476
-  property_description: 'L.1 RP.80476 PAR WOOGAROO '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184097
   council_reference: A005184097
   date_received: '2019-05-02'
   description: Extension, Dwelling House
   address: 83 COCHRANE ST RED HILL QLD 4059
   date_scraped: '2019-05-14'
-  lot: 25RP20640
-  property_description: 'L.25 RP.20640 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184117
   council_reference: A005184117
   date_received: '2019-05-02'
@@ -526,32 +398,24 @@
     Easement, Single Unit Dwelling, Single Unit Dwelling, Subdivision of Land
   address: 198 MUSGRAVE RD RED HILL QLD 4059
   date_scraped: '2019-05-14'
-  lot: 2RP20638
-  property_description: 'L.2 RP.20638 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184143
   council_reference: A005184143
   date_received: '2019-05-02'
   description: Medium Impact Industry
   address: 16 GORE ST ALBION QLD 4010
   date_scraped: '2019-05-14'
-  lot: 1RP206798
-  property_description: 'L.1 RP.206798 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184166
   council_reference: A005184166
   date_received: '2019-05-02'
   description: Build Over or Near Stormwater
   address: 177 DORNOCH TCE HIGHGATE HILL QLD 4101
   date_scraped: '2019-05-14'
-  lot: 20RP158122
-  property_description: 'L.20 RP.158122 PAR STH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184167
   council_reference: A005184167
   date_received: '2019-05-02'
   description: Subdivision of Land
   address: 49 THORPE ST INDOOROOPILLY QLD 4068
   date_scraped: '2019-05-14'
-  lot: 1RP66302
-  property_description: 'L.1 RP.66302 PAR I''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184189
   council_reference: A005184189
   date_received: '2019-05-02'
@@ -559,64 +423,48 @@
     Establishment
   address: 161 BRUNSWICK ST FORTITUDE VALLEY QLD 4006
   date_scraped: '2019-05-14'
-  lot: 1RP202597
-  property_description: 
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184202
   council_reference: A005184202
   date_received: '2019-05-02'
   description: Food and Drink Outlet, Office, Shop
   address: 10 OCONNELL ST WEST END QLD 4101
   date_scraped: '2019-05-14'
-  lot: 115B359
-  property_description: 'L.115 B.359 PAR STH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184212
   council_reference: A005184212
   date_received: '2019-05-02'
   description: Build Over or Near Stormwater
   address: 27 HETHERINGTON ST HERSTON QLD 4006
   date_scraped: '2019-05-14'
-  lot: 175RP475
-  property_description: 'L.175 RP.475 PAR NTH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184214
   council_reference: A005184214
   date_received: '2019-05-02'
   description: Extension, Dwelling House
   address: 74 BOWMAN PDE BARDON QLD 4065
   date_scraped: '2019-05-14'
-  lot: 2RP883780
-  property_description: 'L.2 RP.883780 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184215
   council_reference: A005184215
   date_received: '2019-05-02'
   description: Subdivision of Land
   address: 3262 MOGGILL RD BELLBOWRIE QLD 4070
   date_scraped: '2019-05-14'
-  lot: 2RP121840
-  property_description: 'L.2 RP.121840 PAR MOGGILL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184219
   council_reference: A005184219
   date_received: '2019-05-02'
   description: External Materials and Finishes
   address: 70 FREEMAN RD DURACK QLD 4077
   date_scraped: '2019-05-14'
-  lot: 1RP84262
-  property_description: 'L.1/4 RP.84262 PAR OXLEY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184416
   council_reference: A005184416
   date_received: '2019-05-03'
   description: Demolition, Dwelling House, Extension, Dwelling House
   address: 44 FREE ST NEWMARKET QLD 4051
   date_scraped: '2019-05-14'
-  lot: 14RP46930
-  property_description: 'L.14 RP.46930 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184447
   council_reference: A005184447
   date_received: '2019-05-03'
   description: Vegetation Management Plan
   address: 880 MANLY RD WAKERLEY QLD 4154
   date_scraped: '2019-05-14'
-  lot: 4SP114363
-  property_description: 'L.4 SP.114363 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184448
   council_reference: A005184448
   date_received: '2019-05-03'
@@ -624,56 +472,42 @@
     aesthetics
   address: 16 THURLOW ST NEWMARKET QLD 4051
   date_scraped: '2019-05-14'
-  lot: 2RP70844
-  property_description: 'L.2 RP.70844 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184458
   council_reference: A005184458
   date_received: '2019-05-03'
   description: Subdivision of Land
   address: 28 RINGWOOD ST DURACK QLD 4077
   date_scraped: '2019-05-14'
-  lot: 29RP135034
-  property_description: 'L.28/29 RP.135034 PAR OXLEY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184466
   council_reference: A005184466
   date_received: '2019-05-03'
   description: Building Format Plan
   address: 48 GARDEN TCE NEWMARKET QLD 4051
   date_scraped: '2019-05-14'
-  lot: 18RP19970
-  property_description: 'L.18 RP.19970 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184480
   council_reference: A005184480
   date_received: '2019-05-03'
   description: Multiple Dwelling, Multiple Dwelling
   address: 582 SHERWOOD RD SHERWOOD QLD 4075
   date_scraped: '2019-05-14'
-  lot: 2RP51800
-  property_description: 'L.2 RP.51800 PAR OXLEY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184481
   council_reference: A005184481
   date_received: '2019-05-03'
   description: Stormwater Drainage
   address: 91 DICKENSON ST CARINA QLD 4152
   date_scraped: '2019-05-14'
-  lot: 9RP67061
-  property_description: 'L.9 RP.67061 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184499
   council_reference: A005184499
   date_received: '2019-05-03'
   description: Multi-Unit Dwelling, Multi-Unit Dwelling, Subdivision of Land
   address: 228 PADSTOW RD EIGHT MILE PLAINS QLD 4113
   date_scraped: '2019-05-14'
-  lot: 46SP231553
-  property_description: 'L.46 SP.231553 PAR Y''PILLY  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184501
   council_reference: A005184501
   date_received: '2019-05-03'
   description: Construction Management Plans
   address: 8 LEIGH ST COORPAROO QLD 4151
   date_scraped: '2019-05-14'
-  lot: 2RP102070
-  property_description: 'L.2 RP.102070 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184547
   council_reference: A005184547
   date_received: '2019-05-03'
@@ -681,32 +515,24 @@
     On Small Lot, House On Small Lot, House On Small Lot, Amenity and aesthetics
   address: 44 TWIGG ST INDOOROOPILLY QLD 4068
   date_scraped: '2019-05-14'
-  lot: 3RP64812
-  property_description: 'L.3 RP.64812 PAR I''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184611
   council_reference: A005184611
   date_received: '2019-05-03'
   description: Dwelling House, Extension
   address: 18 GORDON ST HENDRA QLD 4011
   date_scraped: '2019-05-14'
-  lot: 62RP33727
-  property_description: 'L.62 RP.33727 PAR TOOMBUL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184636
   council_reference: A005184636
   date_received: '2019-05-03'
   description: Educational Establishment, Medium Impact Industry
   address: U 1 QPORT 333 333 QUEENSPORT RD N MURARRIE QLD 4172
   date_scraped: '2019-05-14'
-  lot: 1SP198243
-  property_description: 'L.1 SP.198243 PAR BULIMBA 1913/9999 '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184637
   council_reference: A005184637
   date_received: '2019-05-03'
   description: Child Care Centre
   address: 9 NINTH AVE KEDRON QLD 4031
   date_scraped: '2019-05-14'
-  lot: 270RP899419
-  property_description: 'L.270 RP.899419 PAR KEDRON '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184663
   council_reference: A005184663
   date_received: '2019-05-03'
@@ -714,8 +540,6 @@
     Residential Care Facility, Extension
   address: 38 COLVILLE ST HIGHGATE HILL QLD 4101
   date_scraped: '2019-05-14'
-  lot: 1RP118500
-  property_description: 'L.1 RP.118500 PAR STH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184664
   council_reference: A005184664
   date_received: '2019-05-03'
@@ -723,16 +547,12 @@
     Activity Within Centre
   address: 160 RACECOURSE RD ASCOT QLD 4007
   date_scraped: '2019-05-14'
-  lot: 4RP170257
-  property_description: 'L.4 RP.170257 PAR TOOMBUL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184678
   council_reference: A005184678
   date_received: '2019-05-03'
   description: Subdivision of Land, Access Easement
   address: 380 MT PETRIE RD MACKENZIE QLD 4156
   date_scraped: '2019-05-14'
-  lot: 30RP69666
-  property_description: 'L.30 RP.69666 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184680
   council_reference: A005184680
   date_received: '2019-05-03'
@@ -740,48 +560,36 @@
     of Land, Multi-Unit Dwelling
   address: 144 YORK ST NUNDAH QLD 4012
   date_scraped: '2019-05-14'
-  lot: 48RP34487
-  property_description: 'L.48/49 RP.34487 PAR TOOMBUL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184705
   council_reference: A005184705
   date_received: '2019-05-03'
   description: Prescribed Tidal Work
   address: 107 WENDOUREE CRES WESTLAKE QLD 4074
   date_scraped: '2019-05-14'
-  lot: 961RP885584
-  property_description: 'L.961 RP.885584 PAR OXLEY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184718
   council_reference: A005184718
   date_received: '2019-05-03'
   description: Construction Management Plans
   address: 163 CHARLOTTE ST BRISBANE CITY QLD 4000
   date_scraped: '2019-05-14'
-  lot: 2RP182759
-  property_description: 'L.506 B.118215 & L.1/3 RP.182759 & L.1 RP.626 PAR NTH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184722
   council_reference: A005184722
   date_received: '2019-05-03'
   description: Subdivision of Land
   address: 75 HIGHFIELD ST DURACK QLD 4077
   date_scraped: '2019-05-14'
-  lot: 2RP194650
-  property_description: 'L.2/3 RP.194650 PAR Y''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184723
   council_reference: A005184723
   date_received: '2019-05-03'
   description: Stormwater Drainage
   address: 59 MOLONGA TCE GRACEVILLE QLD 4075
   date_scraped: '2019-05-14'
-  lot: 11RP43097
-  property_description: 'L.11 RP.43097 PAR OXLEY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184732
   council_reference: A005184732
   date_received: '2019-05-03'
   description: Build Over or Near Stormwater
   address: 27 BIRDWOOD RD CARINA HEIGHTS QLD 4152
   date_scraped: '2019-05-14'
-  lot: 
-  property_description: 
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005184744
   council_reference: A005184744
   date_received: '2019-05-03'
@@ -789,208 +597,156 @@
     aesthetics, Dwelling House - Extension
   address: 40 LUTWYCHE ST PETRIE TERRACE QLD 4000
   date_scraped: '2019-05-14'
-  lot: 10RP10684
-  property_description: 'L.10 RP.10684 PAR NTH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186871
   council_reference: A005186871
   date_received: '2019-05-07'
   description: Amenity and aesthetics, Dwelling House
   address: 2A BROOK ST NUNDAH QLD 4012
   date_scraped: '2019-05-14'
-  lot: 5SP254242
-  property_description: 'L.5 SP.254242 PAR TOOMBUL  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186906
   council_reference: A005186906
   date_received: '2019-05-07'
   description: Standard Format Plan
   address: 12 EVEREST ST SUNNYBANK QLD 4109
   date_scraped: '2019-05-14'
-  lot: 24S34720
-  property_description: 'L.24 S.34720 PAR Y''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186908
   council_reference: A005186908
   date_received: '2019-05-07'
   description: Multiple Dwelling, Multiple Dwelling
   address: 42 LITTLE JENNER ST NUNDAH QLD 4012
   date_scraped: '2019-05-14'
-  lot: 152RP34488
-  property_description: 'L.152/153 RP.34488 PAR TOOMBUL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186910
   council_reference: A005186910
   date_received: '2019-05-07'
   description: Subdivision of Land
   address: 4 COMMODORE ST SUNNYBANK HILLS QLD 4109
   date_scraped: '2019-05-14'
-  lot: 1139SL10514
-  property_description: 'L.1139 SL.10514 PAR Y''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186942
   council_reference: A005186942
   date_received: '2019-05-07'
   description: Extension, Dwelling House
   address: 47 ROYAL PDE ALDERLEY QLD 4051
   date_scraped: '2019-05-14'
-  lot: 194RP19258
-  property_description: 
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186950
   council_reference: A005186950
   date_received: '2019-05-07'
   description: Dwelling House, Extension
   address: 99 HOWARD ST PADDINGTON QLD 4064
   date_scraped: '2019-05-14'
-  lot: 45RP19662
-  property_description: 'L.45 RP.19662 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186964
   council_reference: A005186964
   date_received: '2019-05-07'
   description: Dwelling House
   address: 372 PROGRESS RD WACOL QLD 4076
   date_scraped: '2019-05-14'
-  lot: 87SP288400
-  property_description: 'L.87 SP.288400 PAR OXLEY  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186965
   council_reference: A005186965
   date_received: '2019-05-07'
   description: Build Over or Near Stormwater
   address: 177 DORNOCH TCE HIGHGATE HILL QLD 4101
   date_scraped: '2019-05-14'
-  lot: 20RP158122
-  property_description: 'L.20 RP.158122 PAR STH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186981
   council_reference: A005186981
   date_received: '2019-05-07'
   description: Educational Establishment, Extension, Educational Establishment, Extension
   address: 45 HURDCOTTE ST ENOGGERA QLD 4051
   date_scraped: '2019-05-14'
-  lot: 1RP18399
-  property_description: 
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186988
   council_reference: A005186988
   date_received: '2019-05-07'
   description: Multiple Dwelling, Food and Drink Outlet, Office, Shop
   address: 48 BRIDE ST WYNNUM QLD 4178
   date_scraped: '2019-05-14'
-  lot: 169RP32988
-  property_description: 
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005186997
   council_reference: A005186997
   date_received: '2019-05-07'
   description: Boundary Realignment, Access Easement
   address: 5 LAUREL ST ENOGGERA QLD 4051
   date_scraped: '2019-05-14'
-  lot: 51RP18369
-  property_description: 'L.50/51 RP.18369 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187019
   council_reference: A005187019
   date_received: '2019-05-07'
   description: Multiple Dwelling
   address: 104 SHERWOOD RD TOOWONG QLD 4066
   date_scraped: '2019-05-14'
-  lot: 1RP145717
-  property_description: 'L.1 RP.145717 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187053
   council_reference: A005187053
   date_received: '2019-05-07'
   description: Construction Management Plans
   address: 211 BRUNSWICK ST FORTITUDE VALLEY QLD 4006
   date_scraped: '2019-05-14'
-  lot: 21601SP271999
-  property_description: 
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187062
   council_reference: A005187062
   date_received: '2019-05-07'
   description: CP565 SHORT TERM ACCOMMODATION, CP565 SHORT TERM ACCOMMODATION
   address: 156 ROMA ST BRISBANE CITY QLD 4000
   date_scraped: '2019-05-14'
-  lot: 2RP84756
-  property_description: 
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187082
   council_reference: A005187082
   date_received: '2019-05-07'
   description: Dwelling House, Dwelling House, Subdivision of Land
   address: 82 PROSPECT TCE ST LUCIA QLD 4067
   date_scraped: '2019-05-14'
-  lot: 5RP53116
-  property_description: 'L.5 RP.53116 PAR I''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187113
   council_reference: A005187113
   date_received: '2019-05-07'
   description: Dwelling House, Extension, Dwelling House, Demolition
   address: 92 BARLOW ST CLAYFIELD QLD 4011
   date_scraped: '2019-05-14'
-  lot: 163RP51948
-  property_description: 'L.163 RP.51948 PAR TOOMBUL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187114
   council_reference: A005187114
   date_received: '2019-05-07'
   description: Short Term Accommodation, Short Term Accommodation
   address: 558 KINGSFORD SMITH DR HAMILTON QLD 4007
   date_scraped: '2019-05-14'
-  lot: 14RP33641
-  property_description: 'L.14 RP.33641 PAR TOOMBUL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187115
   council_reference: A005187115
   date_received: '2019-05-07'
   description: Road Works and/or Stormwater Drainage
   address: 20 HASHIM PL KARAWATHA QLD 4117
   date_scraped: '2019-05-14'
-  lot: 106SP231829
-  property_description: 'L.106 SP.231829 PAR Y''PILLY  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187152
   council_reference: A005187152
   date_received: '2019-05-07'
   description: Signs and Line Marking for Major Roads
   address: 20 HASHIM PL KARAWATHA QLD 4117
   date_scraped: '2019-05-14'
-  lot: 106SP231829
-  property_description: 'L.106 SP.231829 PAR Y''PILLY  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187159
   council_reference: A005187159
   date_received: '2019-05-07'
   description: Multi-Unit Dwelling, Multi-Unit Dwelling
   address: 8 BESHAM PDE WYNNUM QLD 4178
   date_scraped: '2019-05-14'
-  lot: 190RP33107
-  property_description: 'L.190 RP.33107 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187160
   council_reference: A005187160
   date_received: '2019-05-07'
   description: Subdivision of Land
   address: 76 BESHAM PDE WYNNUM QLD 4178
   date_scraped: '2019-05-14'
-  lot: 176RP33108
-  property_description: 'L.176 RP.33108 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187169
   council_reference: A005187169
   date_received: '2019-05-07'
   description: Erosion and Sediment Control
   address: 20 HASHIM PL KARAWATHA QLD 4117
   date_scraped: '2019-05-14'
-  lot: 106SP231829
-  property_description: 'L.106 SP.231829 PAR Y''PILLY  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187207
   council_reference: A005187207
   date_received: '2019-05-07'
   description: Demolition, Dwelling House, Extension, Dwelling House
   address: 38 VICTORIA ST KELVIN GROVE QLD 4059
   date_scraped: '2019-05-14'
-  lot: 3RP20420
-  property_description: 'L.3 RP.20420 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187304
   council_reference: A005187304
   date_received: '2019-05-07'
   description: Construction Management Plans
   address: 140 PROGRESS RD RICHLANDS QLD 4077
   date_scraped: '2019-05-14'
-  lot: 42SP125056
-  property_description: 'L.42 SP.125056 PAR OXLEY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187393
   council_reference: A005187393
   date_received: '2019-05-08'
   description: Filling and/or Excavation
   address: 11 CARLTON ST HIGHGATE HILL QLD 4101
   date_scraped: '2019-05-14'
-  lot: 47RP11740
-  property_description: 'L.47 49 RP.11740 PAR STH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187397
   council_reference: A005187397
   date_received: '2019-05-08'
@@ -998,208 +754,156 @@
     Drink Outlet, Shop, Office, Health Care Service
   address: 54 SERVICETON AVE INALA QLD 4077
   date_scraped: '2019-05-14'
-  lot: 931RP87412
-  property_description: 'L.931 RP.87412 PAR OXLEY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187431
   council_reference: A005187431
   date_received: '2019-05-08'
   description: Build Over or Near Stormwater
   address: 19 ALLARA ST MANLY QLD 4179
   date_scraped: '2019-05-14'
-  lot: 159SP301246
-  property_description: 'L.159 SP.301246 PAR TINGALPA  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187499
   council_reference: A005187499
   date_received: '2019-05-08'
   description: Extension, Dwelling House
   address: 16 BEESTON ST TENERIFFE QLD 4005
   date_scraped: '2019-05-14'
-  lot: 56RP9196
-  property_description: 'L.56 RP.9196 PAR NTH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187514
   council_reference: A005187514
   date_received: '2019-05-08'
   description: Standard Format Plan
   address: 62 ANZAC RD CARINA HEIGHTS QLD 4152
   date_scraped: '2019-05-14'
-  lot: 122RP13279
-  property_description: 'L.122 RP.13279 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187516
   council_reference: A005187516
   date_received: '2019-05-08'
   description: Multiple Dwelling, Multiple Dwelling
   address: 472 MAIN ST KANGAROO POINT QLD 4169
   date_scraped: '2019-05-14'
-  lot: 1SP233989
-  property_description: 'L.1 SP.233989 PAR STH BRISBANE  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187543
   council_reference: A005187543
   date_received: '2019-05-08'
   description: Child Care Centre, Child Care Centre
   address: 11 MOORDALE ST CHAPEL HILL QLD 4069
   date_scraped: '2019-05-14'
-  lot: 
-  property_description: 'L.3 RP.74198 PAR I''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187566
   council_reference: A005187566
   date_received: '2019-05-08'
   description: Demolition, Dwelling House, Extension, Dwelling House, Extension
   address: 36 HARRISON ST BULIMBA QLD 4171
   date_scraped: '2019-05-14'
-  lot: 10RP12609
-  property_description: 'L.9/10 RP.12609 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187567
   council_reference: A005187567
   date_received: '2019-05-08'
   description: Dwelling House
   address: 7 KALANG ST ARCHERFIELD QLD 4108
   date_scraped: '2019-05-14'
-  lot: 42SP298661
-  property_description: 'L.42 SP.298661 PAR Y''PILLY  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187568
   council_reference: A005187568
   date_received: '2019-05-08'
   description: Construction Management Plans
   address: 211 BRUNSWICK ST FORTITUDE VALLEY QLD 4006
   date_scraped: '2019-05-14'
-  lot: 21601SP271999
-  property_description: 
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187583
   council_reference: A005187583
   date_received: '2019-05-08'
   description: Stormwater Drainage
   address: 337 ELLISON RD GEEBUNG QLD 4034
   date_scraped: '2019-05-14'
-  lot: 7RP26236
-  property_description: 'L.7 RP.26236 PAR KEDRON '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187612
   council_reference: A005187612
   date_received: '2019-05-08'
   description: Outdoor Sales
   address: 20 NOBLE AVE NORTHGATE QLD 4013
   date_scraped: '2019-05-14'
-  lot: 100RP34595
-  property_description: 'L.98/100 RP.34595 PAR TOOMBUL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187657
   council_reference: A005187657
   date_received: '2019-05-08'
   description: Subdivision of Land
   address: 26 BADEN POWELL ST EVERTON PARK QLD 4053
   date_scraped: '2019-05-14'
-  lot: 238RP71473
-  property_description: 'L.238 RP.71473 PAR KEDRON '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187681
-  council_reference: A005187681 -
+  council_reference: A005187681
   date_received: '2019-05-08'
   description: ''
   address: 274 RIDING RD BALMORAL QLD 4171
   date_scraped: '2019-05-14'
-  lot: 2SP138117
-  property_description: 
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187687
   council_reference: A005187687
   date_received: '2019-05-08'
   description: Road Works and/or Stormwater Drainage
   address: 32 TWELFTH AVE ST LUCIA QLD 4067
   date_scraped: '2019-05-14'
-  lot: 817RP92168
-  property_description: 'L.817 RP.92168 PAR I''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187704
   council_reference: A005187704
   date_received: '2019-05-08'
   description: Stormwater Drainage
   address: 15 PATWIN ST OXLEY QLD 4075
   date_scraped: '2019-05-14'
-  lot: 7RP92638
-  property_description: 'L.7 RP.92638 PAR OXLEY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187707
   council_reference: A005187707
   date_received: '2019-05-08'
   description: Service Station, Service Station
   address: 17 PETAL ST HEMMANT QLD 4174
   date_scraped: '2019-05-14'
-  lot: 
-  property_description: 
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187714
   council_reference: A005187714
   date_received: '2019-05-08'
   description: Subdivision of Land
   address: 51 SIXTH AVE ST LUCIA QLD 4067
   date_scraped: '2019-05-14'
-  lot: 719RP23342
-  property_description: 'L.718/719 RP.23342 PAR I''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187802
   council_reference: A005187802
   date_received: '2019-05-08'
   description: Build Over or Near Stormwater
   address: 84 HALSTEAD ST COORPAROO QLD 4151
   date_scraped: '2019-05-14'
-  lot: 156RP13079
-  property_description: 'L.156/157 RP.13079 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187804
   council_reference: A005187804
   date_received: '2019-05-08'
   description: Office
   address: 661 SHERWOOD RD SHERWOOD QLD 4075
   date_scraped: '2019-05-14'
-  lot: 2RP29606
-  property_description: 'L.2 RP.29606 PAR OXLEY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187829
   council_reference: A005187829
   date_received: '2019-05-08'
   description: Standard Format Plan, Standard Format Plan
   address: 60 MAUGHAN ST CARINA HEIGHTS QLD 4152
   date_scraped: '2019-05-14'
-  lot: 127RP81908
-  property_description: 'L.127 RP.81908 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187865
   council_reference: A005187865
   date_received: '2019-05-08'
   description: Build Over or Near Stormwater
   address: 274 LANCASTER RD ASCOT QLD 4007
   date_scraped: '2019-05-14'
-  lot: 1SP288031
-  property_description: 'L.1 SP.288031 PAR TOOMBUL  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187905
   council_reference: A005187905
   date_received: '2019-05-08'
   description: Filling and/or Excavation
   address: 37 DORSET ST ASHGROVE QLD 4060
   date_scraped: '2019-05-14'
-  lot: 5RP75841
-  property_description: 'L.5 RP.75841 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005187924
   council_reference: A005187924
   date_received: '2019-05-08'
   description: Road Works and/or Stormwater Drainage
   address: 37 DORSET ST ASHGROVE QLD 4060
   date_scraped: '2019-05-14'
-  lot: 5RP75841
-  property_description: 'L.5 RP.75841 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188024
   council_reference: A005188024
   date_received: '2019-05-09'
   description: Multiple Dwelling
   address: 19 DARGIE ST EVERTON PARK QLD 4053
   date_scraped: '2019-05-14'
-  lot: 16RP814727
-  property_description: 'L.16 RP.814727 PAR KEDRON '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188048
   council_reference: A005188048
   date_received: '2019-05-09'
   description: Traffic Functional Layout for Major Roads
   address: 270 GLADSTONE RD DUTTON PARK QLD 4102
   date_scraped: '2019-05-14'
-  lot: 108RP72915
-  property_description: 'L.108 RP.72915 PAR STH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188071
   council_reference: A005188071
   date_received: '2019-05-09'
   description: Standard Format Plan
   address: 30 OSWALD ST HEMMANT QLD 4174
   date_scraped: '2019-05-14'
-  lot: 5RP74929
-  property_description: 'L.5 RP.74929 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188096
   council_reference: A005188096
   date_received: '2019-05-09'
@@ -1207,48 +911,36 @@
     Dwelling, Multi-Unit Dwelling, Multi-Unit Dwelling
   address: 42 SIZER ST EVERTON PARK QLD 4053
   date_scraped: '2019-05-14'
-  lot: 80RP74997
-  property_description: 'L.80 RP.74997 PAR KEDRON '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188129
   council_reference: A005188129
   date_received: '2019-05-09'
   description: Dwelling House, Extension
   address: 32 GLENROSA RD RED HILL QLD 4059
   date_scraped: '2019-05-14'
-  lot: 1RP865376
-  property_description: 'L.1 RP.865376 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188145
   council_reference: A005188145
   date_received: '2019-05-09'
   description: Boundary Realignment
   address: 36 FRIDAY ST SHORNCLIFFE QLD 4017
   date_scraped: '2019-05-14'
-  lot: 13RP4496
-  property_description: 'L.13/14 RP.4496 PAR NUNDAH '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188149
   council_reference: A005188149
   date_received: '2019-05-09'
   description: Dwelling House, Dwelling House
   address: 125 KING AVE WILLAWONG QLD 4110
   date_scraped: '2019-05-14'
-  lot: 15RP77622
-  property_description: 'L.15 RP.77622 PAR OXLEY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188168
   council_reference: A005188168
   date_received: '2019-05-09'
   description: Extension, Dwelling House
   address: 17 CORDEAUX ST WEST END QLD 4101
   date_scraped: '2019-05-14'
-  lot: 174RP10977
-  property_description: 'L.174/176 RP.10977 PAR STH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188171
   council_reference: A005188171
   date_received: '2019-05-09'
   description: Landscape Works in Park
   address: 880 MANLY RD WAKERLEY QLD 4154
   date_scraped: '2019-05-14'
-  lot: 4SP114363
-  property_description: 'L.4 SP.114363 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188184
   council_reference: A005188184
   date_received: '2019-05-09'
@@ -1257,232 +949,174 @@
     Recreation, Office, Research and Technology Industry, Service Industry
   address: 14 MAUD ST NEWSTEAD QLD 4006
   date_scraped: '2019-05-14'
-  lot: 1RP126804
-  property_description: 'L.1 RP.126804 PAR NTH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188216
   council_reference: A005188216
   date_received: '2019-05-09'
   description: Standard Format Plan
   address: 30 GRIFFITH ST NEW FARM QLD 4005
   date_scraped: '2019-05-14'
-  lot: 27RP8727
-  property_description: 'L.27 RP.8727 & L.1 RP.8731 PAR NTH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188228
   council_reference: A005188228
   date_received: '2019-05-09'
   description: Rehabilitation Plan
   address: 880 MANLY RD WAKERLEY QLD 4154
   date_scraped: '2019-05-14'
-  lot: 4SP114363
-  property_description: 'L.4 SP.114363 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188232
   council_reference: A005188232
   date_received: '2019-05-09'
   description: Acid sulphate soils management plan
   address: 17 LITTLE CRIBB ST MILTON QLD 4064
   date_scraped: '2019-05-14'
-  lot: 2SP113412
-  property_description: 'L.2 SP.113412 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188311
   council_reference: A005188311
   date_received: '2019-05-09'
   description: Extension, Dwelling House
   address: 36 WELLINGTON ST CLAYFIELD QLD 4011
   date_scraped: '2019-05-14'
-  lot: 1SP120779
-  property_description: 'L.1 SP.120779 PAR TOOMBUL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188362
   council_reference: A005188362
   date_received: '2019-05-09'
   description: Building Format Plan
   address: 30 GRIFFITH ST NEW FARM QLD 4005
   date_scraped: '2019-05-14'
-  lot: 27RP8727
-  property_description: 'L.27 RP.8727 & L.1 RP.8731 PAR NTH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188384
   council_reference: A005188384
   date_received: '2019-05-09'
   description: Demolition
   address: 10 BLACKBURN LANE MOOROOKA QLD 4105
   date_scraped: '2019-05-14'
-  lot: 72RP57232
-  property_description: 'L.72 RP.57232 PAR Y''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188389
   council_reference: A005188389
   date_received: '2019-05-09'
   description: Subdivision of Land, Dwelling House
   address: 30 HALDANE ST GRACEVILLE QLD 4075
   date_scraped: '2019-05-14'
-  lot: 51RP77304
-  property_description: 'L.51 RP.77304 PAR OXLEY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188392
   council_reference: A005188392
   date_received: '2019-05-09'
   description: Multiple Dwelling, Multiple Dwelling
   address: 24 GRAYS RD HAMILTON QLD 4007
   date_scraped: '2019-05-14'
-  lot: 2SP232398
-  property_description: 'L.2 SP.232398 PAR TOOMBUL  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188405
   council_reference: A005188405
   date_received: '2019-05-09'
   description: Signs and Line Marking for Minor Roads
   address: 18 GUNNIN ST FIG TREE POCKET QLD 4069
   date_scraped: '2019-05-14'
-  lot: 3RP913548
-  property_description: 'L.3 RP.913548 PAR I''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188416
   council_reference: A005188416
   date_received: '2019-05-09'
   description: Subdivision of Land
   address: 70 LONGFELLOW ST NORMAN PARK QLD 4170 (L212/RP12501 L214/RP12501)
   date_scraped: '2019-05-14'
-  lot: 214RP12501
-  property_description: 
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188434
   council_reference: A005188434
   date_received: '2019-05-09'
   description: Filling and/or Excavation
   address: 75 BYWONG ST TOOWONG QLD 4066
   date_scraped: '2019-05-14'
-  lot: 196RP20161
-  property_description: 'L.196 RP.20161 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188567
   council_reference: A005188567
   date_received: '2019-05-10'
   description: Standard Format Plan
   address: 21 THOMAS ST CAMP HILL QLD 4152
   date_scraped: '2019-05-14'
-  lot: 74RP41987
-  property_description: 'L.74 RP.41987 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188597
   council_reference: A005188597
   date_received: '2019-05-10'
   description: Road Works and/or Stormwater Drainage
   address: 880 MANLY RD WAKERLEY QLD 4154
   date_scraped: '2019-05-14'
-  lot: 4SP114363
-  property_description: 'L.4 SP.114363 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188608
   council_reference: A005188608
   date_received: '2019-05-10'
   description: Dwelling House
   address: 80 KAMALA DR PULLENVALE QLD 4069
   date_scraped: '2019-05-14'
-  lot: 41SP158077
-  property_description: 'L.41 SP.158077 PAR MOGGILL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188616
   council_reference: A005188616
   date_received: '2019-05-10'
   description: Stormwater Drainage
   address: 880 MANLY RD WAKERLEY QLD 4154
   date_scraped: '2019-05-14'
-  lot: 4SP114363
-  property_description: 'L.4 SP.114363 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188644
   council_reference: A005188644
   date_received: '2019-05-10'
   description: Extension, Dwelling House, Amenity and aesthetics
   address: 41A CHARLOTTE ST PADDINGTON QLD 4064
   date_scraped: '2019-05-14'
-  lot: 9SP117871
-  property_description: 'L.9 SP.117871 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188652
   council_reference: A005188652
   date_received: '2019-05-10'
   description: Amenity and aesthetics, Design and siting, Extension, Dwelling House
   address: 43 PATTERSON ST WYNNUM WEST QLD 4178
   date_scraped: '2019-05-14'
-  lot: 108RP33289
-  property_description: 'L.108 RP.33289 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188675
   council_reference: A005188675
   date_received: '2019-05-10'
   description: Extension, Multiple Dwelling
   address: U 1 HILLSIDE PLACE 9 CHESTER ST HIGHGATE HILL QLD 4101
   date_scraped: '2019-05-14'
-  lot: 1BUP101039
-  property_description: 'L.1 BUP.101039 PAR STH BRISBANE 8/100 '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188694
   council_reference: A005188694
   date_received: '2019-05-10'
   description: Traffic Functional Layout for Minor Roads
   address: 171 KENNEDY TCE PADDINGTON QLD 4064
   date_scraped: '2019-05-14'
-  lot: 1RP83271
-  property_description: 'L.1 4 RP.83271 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188698
   council_reference: A005188698
   date_received: '2019-05-10'
   description: Bulk Earthworks
   address: 29 HAWTHORNE ST ENOGGERA QLD 4051
   date_scraped: '2019-05-14'
-  lot: 2RP59324
-  property_description: 'L.2 RP.59324 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188706
   council_reference: A005188706
   date_received: '2019-05-10'
   description: Dwelling House, Dwelling House, Subdivision of Land
   address: 50 SHETLAND ST MORNINGSIDE QLD 4170
   date_scraped: '2019-05-14'
-  lot: 50SP126871
-  property_description: 'L.50 SP.126871 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188714
   council_reference: A005188714
   date_received: '2019-05-10'
   description: Place of Worship
   address: 131 UPPER KEDRON RD FERNY GROVE QLD 4055
   date_scraped: '2019-05-14'
-  lot: 1RP93437
-  property_description: 'L.1 RP.93437 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188718
   council_reference: A005188718
   date_received: '2019-05-10'
   description: Dwelling House, Extension
   address: 41 BUNOWANG ST BALMORAL QLD 4171
   date_scraped: '2019-05-14'
-  lot: 2RP95775
-  property_description: 'L.2 RP.95775 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188721
   council_reference: A005188721
   date_received: '2019-05-10'
   description: Construction Management Plans
   address: 131 MARY ST BRISBANE CITY QLD 4000
   date_scraped: '2019-05-14'
-  lot: 2SP245995
-  property_description: 
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188735
   council_reference: A005188735
   date_received: '2019-05-10'
   description: Extension, Low Impact Industry
   address: 496 BILSEN RD GEEBUNG QLD 4034
   date_scraped: '2019-05-14'
-  lot: 1RP171664
-  property_description: 'L.1 RP.171664 PAR KEDRON '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188748
   council_reference: A005188748
   date_received: '2019-05-10'
   description: Dwelling House, Dwelling House
   address: 167 MELVILLE TCE MANLY QLD 4179
   date_scraped: '2019-05-14'
-  lot: 1RP33028
-  property_description: 'L.1 RP.33028 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188767
   council_reference: A005188767
   date_received: '2019-05-10'
   description: Construction Management Plans
   address: 37 MOLLISON ST WEST END QLD 4101
   date_scraped: '2019-05-14'
-  lot: 1SP283538
-  property_description: 'L.1 SP.283538 PAR STH BRISBANE  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188776
   council_reference: A005188776
   date_received: '2019-05-10'
   description: Request to apply superseded planning scheme
   address: U 1 MILDMAY COURT 121 MILDMAY ST FAIRFIELD QLD 4103
   date_scraped: '2019-05-14'
-  lot: 1SP108888
-  property_description: 'L.1 SP.108888 PAR Y''PILLY 22/100 '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188780
   council_reference: A005188780
   date_received: '2019-05-10'
@@ -1490,88 +1124,66 @@
     Dwelling House
   address: 26 MERTON RD WOOLLOONGABBA QLD 4102
   date_scraped: '2019-05-14'
-  lot: 2RP53129
-  property_description: 'L.2 RP.53129 PAR STH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188801
   council_reference: A005188801
   date_received: '2019-05-10'
   description: Multiple Dwelling
   address: 120 ORANA ST CARINA QLD 4152
   date_scraped: '2019-05-14'
-  lot: 2RP65270
-  property_description: 'L.1/2 RP.65270 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188809
   council_reference: A005188809
   date_received: '2019-05-10'
   description: Standard Format Plan
   address: 27 SOUTHEY ST SALISBURY QLD 4107
   date_scraped: '2019-05-14'
-  lot: 29RP71543
-  property_description: 'L.29 RP.71543 PAR Y''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188810
   council_reference: A005188810
   date_received: '2019-05-10'
   description: Volumetric Plan
   address: 1033 ANN ST NEWSTEAD QLD 4006
   date_scraped: '2019-05-14'
-  lot: 
-  property_description: 
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188811
   council_reference: A005188811
   date_received: '2019-05-10'
   description: Construction Management Plans
   address: 37 MOLLISON ST WEST END QLD 4101
   date_scraped: '2019-05-14'
-  lot: 1SP283538
-  property_description: 'L.1 SP.283538 PAR STH BRISBANE  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188812
   council_reference: A005188812
   date_received: '2019-05-10'
   description: Dwelling House, Dwelling House
   address: 880 GRANDVIEW RD UPPER BROOKFIELD QLD 4069
   date_scraped: '2019-05-14'
-  lot: 6SP108761
-  property_description: 'L.6 SP.108761 PAR MOGGILL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005188825
   council_reference: A005188825
   date_received: '2019-05-10'
   description: Stormwater Drainage
   address: 32 ARCHER ST UPPER MOUNT GRAVATT QLD 4122
   date_scraped: '2019-05-14'
-  lot: 90RP13401
-  property_description: 'L.90 RP.13401 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191025
   council_reference: A005191025
   date_received: '2019-05-13'
   description: Amenity and aesthetics, Extension, Dwelling House
   address: 55 FERGUSON RD CAMP HILL QLD 4152
   date_scraped: '2019-05-14'
-  lot: 309RP13179
-  property_description: 'L.309 RP.13179 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191053
   council_reference: A005191053
   date_received: '2019-05-13'
   description: Standard Format Plan
   address: 42 ADELAIDE ST CLAYFIELD QLD 4011
   date_scraped: '2019-05-14'
-  lot: 2RP34310
-  property_description: 'L.2 RP.34310 PAR TOOMBUL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191076
   council_reference: A005191076
   date_received: '2019-05-13'
   description: Design and siting, Amenity and aesthetics, Dwelling House
   address: 28 KILBURN ST CHERMSIDE QLD 4032
   date_scraped: '2019-05-14'
-  lot: 23SP306336
-  property_description: 'L.23 SP.306336 PAR KEDRON  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191091
   council_reference: A005191091
   date_received: '2019-05-13'
   description: Subdivision of Land
   address: 3 AVONDALE RD SINNAMON PARK QLD 4073
   date_scraped: '2019-05-14'
-  lot: 16RP181272
-  property_description: 'L.16 RP.181272 PAR OXLEY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191100
   council_reference: A005191100
   date_received: '2019-05-13'
@@ -1579,32 +1191,24 @@
     Single Unit Dwelling, Multi-Unit Dwelling, Subdivision of Land
   address: 26 LEVER ST ALBION QLD 4010
   date_scraped: '2019-05-14'
-  lot: 39RP19028
-  property_description: 'L.38/39 RP.19028 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191105
   council_reference: A005191105
   date_received: '2019-05-13'
   description: Extension, Dwelling House
   address: 90 CUNNINGHAM ST TARINGA QLD 4068
   date_scraped: '2019-05-14'
-  lot: 5RP883813
-  property_description: 'L.5 RP.883813 PAR I''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191127
   council_reference: A005191127
   date_received: '2019-05-13'
   description: Child Care Facility, Child Care Facility
   address: 82 BROOKFIELD RD KENMORE HILLS QLD 4069
   date_scraped: '2019-05-14'
-  lot: 3RP893567
-  property_description: 'L.3 RP.893567 PAR I''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191128
   council_reference: A005191128
   date_received: '2019-05-13'
   description: Multiple Dwelling
   address: 131 JONES RD CARINA HEIGHTS QLD 4152
   date_scraped: '2019-05-14'
-  lot: 88RP13324
-  property_description: 'L.88 RP.13324 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191154
   council_reference: A005191154
   date_received: '2019-05-13'
@@ -1613,64 +1217,48 @@
     Place (LHP)
   address: 55 ROSE ST WOOLOOWIN QLD 4030
   date_scraped: '2019-05-14'
-  lot: 404SP264597
-  property_description: 'L.402/404 SP.264597 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191251
   council_reference: A005191251
   date_received: '2019-05-13'
   description: Dwelling House, Dwelling House
   address: 400 GOLD CREEK RD BROOKFIELD QLD 4069
   date_scraped: '2019-05-14'
-  lot: 1RP78644
-  property_description: 'L.1 RP.78644 PAR I''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191272
   council_reference: A005191272
   date_received: '2019-05-13'
   description: Subdivision of Land
   address: 115 FRIZZELL ST STRETTON QLD 4116
   date_scraped: '2019-05-14'
-  lot: 21RP38163
-  property_description: 'L.21 RP.38163 PAR Y''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191309
   council_reference: A005191309
   date_received: '2019-05-13'
   description: Medium Impact Industry, Medium Impact Industry, Medium Impact Industry
   address: 33 GOODMAN PL MURARRIE QLD 4172
   date_scraped: '2019-05-14'
-  lot: 2SP177542
-  property_description: 'L.2 SP.177542 PAR BULIMBA 7/10 '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191339
   council_reference: A005191339
   date_received: '2019-05-13'
   description: Dwelling House
   address: 32 TEESDALE ST CORINDA QLD 4075
   date_scraped: '2019-05-14'
-  lot: 72RP29762
-  property_description: 'L.71/72 RP.29762 PAR OXLEY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191384
   council_reference: A005191384
   date_received: '2019-05-13'
   description: Amenity and aesthetics, Extension, Dwelling House
   address: 16 GRAHAM ST ALDERLEY QLD 4051
   date_scraped: '2019-05-14'
-  lot: 13RP20310
-  property_description: 'L.12/13 RP.20310 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191388
   council_reference: A005191388
   date_received: '2019-05-13'
   description: Amenity and aesthetics
   address: 29 WELLINGTON RD RED HILL QLD 4059
   date_scraped: '2019-05-14'
-  lot: 1RP901266
-  property_description: 'L.1 RP.901266 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191396
   council_reference: A005191396
   date_received: '2019-05-13'
   description: Filling and/or Excavation
   address: 45 LUMLEY ST UPPER MOUNT GRAVATT QLD 4122
   date_scraped: '2019-05-14'
-  lot: 3RP80233
-  property_description: 'L.3 RP.80233 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191398
   council_reference: A005191398
   date_received: '2019-05-13'
@@ -1678,24 +1266,18 @@
     House, Dwelling House, Amenity and aesthetics, Flood hazard area
   address: 92 NORMAN AVE NORMAN PARK QLD 4170
   date_scraped: '2019-05-14'
-  lot: 242RP12500
-  property_description: 'L.241/242 RP.12500 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191413
   council_reference: A005191413
   date_received: '2019-05-13'
   description: Stormwater Drainage
   address: 45 LUMLEY ST UPPER MOUNT GRAVATT QLD 4122
   date_scraped: '2019-05-14'
-  lot: 3RP80233
-  property_description: 'L.3 RP.80233 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191426
   council_reference: A005191426
   date_received: '2019-05-13'
   description: Build Over or Near Stormwater
   address: 3 DON ST ASHGROVE QLD 4060
   date_scraped: '2019-05-14'
-  lot: 2RP63732
-  property_description: 'L.2 RP.63732 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191443
   council_reference: A005191443
   date_received: '2019-05-13'
@@ -1703,32 +1285,24 @@
     Design and siting
   address: 43 BOOLIGAL ST CARINA QLD 4152
   date_scraped: '2019-05-14'
-  lot: 22RP78530
-  property_description: 'L.22 RP.78530 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191448
   council_reference: A005191448
   date_received: '2019-05-13'
   description: Extension, Dwelling House
   address: 57 GIBBSTON PL DOOLANDELLA QLD 4077
   date_scraped: '2019-05-14'
-  lot: 47SP209060
-  property_description: 'L.47 SP.209060 PAR OXLEY  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191454
   council_reference: A005191454
   date_received: '2019-05-13'
   description: Standard Format Plan
   address: 155 CAMBRIDGE PDE MANLY QLD 4179
   date_scraped: '2019-05-14'
-  lot: 
-  property_description: 'L.2/3 RP.33147 PAR TINGALPA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191457
   council_reference: A005191457
   date_received: '2019-05-13'
   description: Prescribed Tidal Work
   address: 529 SUMNERS RD RIVERHILLS QLD 4074
   date_scraped: '2019-05-14'
-  lot: 18RP29817
-  property_description: 
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191463
   council_reference: A005191463
   date_received: '2019-05-13'
@@ -1736,16 +1310,12 @@
     Dwelling, Subdivision of Land
   address: 144 YORK ST NUNDAH QLD 4012
   date_scraped: '2019-05-14'
-  lot: 48RP34487
-  property_description: 'L.48/49 RP.34487 PAR TOOMBUL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191490
   council_reference: A005191490
   date_received: '2019-05-13'
   description: Dwelling House, Extension, Dwelling House, Demolition
   address: 75 WARBURTON ST BARDON QLD 4065
   date_scraped: '2019-05-14'
-  lot: 251RP20118
-  property_description: 'L.251 RP.20118 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191702
   council_reference: A005191702
   date_received: '2019-05-14'
@@ -1753,40 +1323,30 @@
     Dwelling
   address: 28 ROBERTSON ST FORTITUDE VALLEY QLD 4006
   date_scraped: '2019-05-14'
-  lot: 
-  property_description: 'L.5 SP.102899 PAR NTH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191722
   council_reference: A005191722
   date_received: '2019-05-14'
   description: Road Works and/or Stormwater Drainage
   address: 155 MORAY ST NEW FARM QLD 4005
   date_scraped: '2019-05-14'
-  lot: 4RP8690
-  property_description: 'L.4 RP.8690 PAR NTH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191741
   council_reference: A005191741
   date_received: '2019-05-14'
   description: Demolition, Extension, Dwelling House
   address: 5 MOREE ST KEDRON QLD 4031
   date_scraped: '2019-05-14'
-  lot: 2RP56681
-  property_description: 'L.2 RP.56681 PAR KEDRON '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191792
   council_reference: A005191792
   date_received: '2019-05-14'
   description: Standard Format Plan
   address: 89 BROOKBENT RD PALLARA QLD 4110
   date_scraped: '2019-05-14'
-  lot: 812SP289835
-  property_description: 'L.812 SP.289835 PAR OXLEY  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191829
   council_reference: A005191829
   date_received: '2019-05-14'
   description: Dwelling House, Demolition
   address: 88 COOPERS CAMP RD BARDON QLD 4065
   date_scraped: '2019-05-14'
-  lot: 26RP20194
-  property_description: 'L.25/26 RP.20194 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191839
   council_reference: A005191839
   date_received: '2019-05-14'
@@ -1794,80 +1354,60 @@
   address: U 2106 SOLITO CITY APARTMENTS CENTRAL TOWER 16 SURBITON CT CARINDALE QLD
     4152
   date_scraped: '2019-05-14'
-  lot: 2106SP208813
-  property_description: 'L.2106 SP.208813 PAR BULIMBA (788/23801)*(37/209) '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191844
   council_reference: A005191844
   date_received: '2019-05-14'
   description: Signs and Line Marking for Minor Roads
   address: 155 MORAY ST NEW FARM QLD 4005
   date_scraped: '2019-05-14'
-  lot: 4RP8690
-  property_description: 'L.4 RP.8690 PAR NTH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191959
   council_reference: A005191959
   date_received: '2019-05-14'
   description: Dwelling House, Extension
   address: 310 HARCOURT ST TENERIFFE QLD 4005
   date_scraped: '2019-05-14'
-  lot: 4RP9265
-  property_description: 'L.4 RP.9265 PAR NTH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191980
   council_reference: A005191980
   date_received: '2019-05-14'
   description: Dwelling House, Dwelling House
   address: 12 QUANDONG ST ASHGROVE QLD 4060
   date_scraped: '2019-05-14'
-  lot: 13RP85791
-  property_description: 'L.13 RP.85791 PAR ENOGGERA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005191997
   council_reference: A005191997
   date_received: '2019-05-14'
   description: Extension, Centre Activity, Extension, Centre Activity Within Centre
   address: 37 BIRKIN RD BELLBOWRIE QLD 4070
   date_scraped: '2019-05-14'
-  lot: 1SP126219
-  property_description: 'L.1 SP.126219 PAR MOGGILL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005192014
   council_reference: A005192014
   date_received: '2019-05-14'
   description: Subdivision of Land, Dwelling House, Extension
   address: 20 BAILEY ST NEW FARM QLD 4005
   date_scraped: '2019-05-14'
-  lot: 27RP9131
-  property_description: 'L.27 RP.9131 PAR NTH BRISBANE '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005192015
   council_reference: A005192015
   date_received: '2019-05-14'
   description: Dwelling House, Extension, Dwelling House, Subdivision of Land
   address: 19 FLORENCE ST ANNERLEY QLD 4103
   date_scraped: '2019-05-14'
-  lot: 36RP37836
-  property_description: 'L.36/37 RP.37836 PAR Y''PILLY '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005192046
-  council_reference: A005192046 -
+  council_reference: A005192046
   date_received: '2019-05-14'
   description: ''
   address: 74 DUNHILL CRES MORNINGSIDE QLD 4170
   date_scraped: '2019-05-14'
-  lot: 1SP303654
-  property_description: 'L.1 SP.303654 PAR BULIMBA  '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005192063
   council_reference: A005192063
   date_received: '2019-05-14'
   description: Dwelling House, Dwelling House
   address: 469 HAVEN RD UPPER BROOKFIELD QLD 4069
   date_scraped: '2019-05-14'
-  lot: 201RP837768
-  property_description: 'L.201 RP.837768 PAR MOGGILL '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005192077
   council_reference: A005192077
   date_received: '2019-05-14'
   description: Stormwater Drainage
   address: 93 WANDA RD UPPER MOUNT GRAVATT QLD 4122
   date_scraped: '2019-05-14'
-  lot: 114RP13398
-  property_description: 'L.114 RP.13398 PAR BULIMBA '
 - info_url: https://pdonline.brisbane.qld.gov.au/MasterViewUI/Modules/ApplicationMaster/default.aspx?page=wrapper&key=A005192089
   council_reference: A005192089
   date_received: '2019-05-14'
@@ -1875,5 +1415,3 @@
     Demolition
   address: 30 MAGDALA ST ASCOT QLD 4007
   date_scraped: '2019-05-14'
-  lot: 107RP33643
-  property_description: 'L.107 RP.33643 PAR TOOMBUL '
